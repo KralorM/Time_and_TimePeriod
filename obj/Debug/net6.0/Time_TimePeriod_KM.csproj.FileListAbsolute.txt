@@ -1,0 +1,15 @@
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\bin\Debug\net6.0\Time_TimePeriod_KM.exe
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\bin\Debug\net6.0\Time_TimePeriod_KM.deps.json
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\bin\Debug\net6.0\Time_TimePeriod_KM.runtimeconfig.json
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\bin\Debug\net6.0\Time_TimePeriod_KM.dll
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\bin\Debug\net6.0\Time_TimePeriod_KM.pdb
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\Time_TimePeriod_KM.csproj.AssemblyReference.cache
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\Time_TimePeriod_KM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\Time_TimePeriod_KM.AssemblyInfoInputs.cache
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\Time_TimePeriod_KM.AssemblyInfo.cs
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\Time_TimePeriod_KM.csproj.CoreCompileInputs.cache
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\Time_TimePeriod_KM.dll
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\refint\Time_TimePeriod_KM.dll
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\Time_TimePeriod_KM.pdb
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\Time_TimePeriod_KM.genruntimeconfig.cache
+C:\Users\gekon\source\repos\Time_TimePeriod_KM\obj\Debug\net6.0\ref\Time_TimePeriod_KM.dll
